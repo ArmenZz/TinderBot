@@ -1,3 +1,5 @@
 USE:
 - ADD YOUR FACEBOOK LOGIN DETAILS IN CONFIG.PY
 - run script: python tinder.py
+
+****YOU NEED chromedriver.exe TO BE ABLE TO OPEN ISOLATED INSTANCES OF CHROME
